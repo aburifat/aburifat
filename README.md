@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a compatitive programmer!</h1>
+<h1 align="center">Hi 👋, I'm a Compatitive Programmer!</h1>
 
 <p align="center">
   <a href="https://leetcode.com/aburifat/">
@@ -21,18 +21,18 @@
 #### Currently I'm,
 
 - :fire: Interested in **CP / Algo-DS** and **AI / ML**
-- 🌱 Learning **NLP, Sentiment Analysis, BERT**
 - ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)** and **[LightOJ](https://lightoj.com/user/abu-rifat)**
+- 🌱 Learning **NLP, Sentiment Analysis, BERT**
 - 💼 Open to Work for **Softwere Engineer** Role
 
 #### Biodata,
-- I'm currently studying Computer Science & Engineering at **[University of Barishal](https://bu.ac.bd/)**
+- 🎓 I'm currently studying Computer Science & Engineering at **[University of Barishal](https://bu.ac.bd/)**
 - ✨ I'm currently working on **[Fiverr](https://www.fiverr.com/abu_rifat_m)** as **WordPress Bug Fixer**
-- I commonly use: `.cpp`, `.c`, `.sh`, `.php`, `.html`, `.css`
-- I'm mostly active with the **CP Community** and **Fiverr Bangladesh Community**
-- I'm learning **Advanced Algo-DS** for **CP**
-- Ping me about **CP / Algo-DS**, **WordPress**, **CLI(Linux)**
-- Checkout my **[Resume](#)**
+- 🧾️ I commonly use: `.cpp`, `.c`, `.sh`, `.php`, `.html`, `.css`
+- 👨‍💻 I'm mostly active with the **CP Community** and **Fiverr Bangladesh Community**
+- 📖 I'm learning **Advanced Algo-DS** for **CP**
+- 💬 Ping me about **CP / Algo-DS**, **WordPress**, **CLI(Linux)**
+- 📋 Checkout my **[Resume](#)**
 
 ### Profiles:
 <p align="left">
@@ -46,7 +46,7 @@
   <a href="https://uhunt.onlinejudge.org/id/889274/" target="blank"><img align="center" src="src/logo/cp-logo/uvaoj.png" alt="https://uhunt.onlinejudge.org/id/889274/" height="50" width="50" /></a>
 </p>
 
-### Blogs posts
+### Blogs Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Codeforces-1529C Parsa’s Humongous Tree](https://aburifat.com/codeforces-1529c-parsas-humongous-tree/)
 - [Codeforces-1520F2 Guess the K-th Zero &lpar;Hard version&rpar;](https://aburifat.com/codeforces-1520f2-guess-the-k-th-zero-hard-version/)
@@ -60,7 +60,7 @@
 - [Codeforces-1517D Explorer Space](https://aburifat.com/codeforces-1517d-explorer-space/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aburifat" target="blank"><img align="center" src="src/logo/social/linkedin.png" alt="aburifat" height="50" width="50" /></a>
 <a href="https://fb.com/aburifatm" target="blank"><img align="center" src="src/logo/social/facebook.png" alt="aburifatm" height="50" width="50" /></a>
@@ -88,5 +88,4 @@
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/aburifat?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/abu-rifat/cf-stats/main/output/light_card.svg" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-rifat&" alt="abu-rifat" />
 </p>
