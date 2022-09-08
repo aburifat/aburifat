@@ -76,8 +76,19 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="src/logo/language/mysql.png" alt="mysql" width="50" height="50"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-rifat&show_icons=true&locale=en&layout=compact" alt="abu-rifat" /></p>
+### Github Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-rifat&show_icons=true&locale=en" alt="abu-rifat" /></p>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abu-rifat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-rifat&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+### CP Progress:
+
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/aburifat?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/ARMaster/cf-stats/main/output/light_card.svg" />
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-rifat&" alt="abu-rifat" /></p>
