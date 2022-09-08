@@ -2,10 +2,16 @@
 
 <p align="left">
   <a href="https://leetcode.com/aburifat/">
-    <img src="https://cp-logo.vercel.app/leetcode/aburifat" alt="Leet code rating" />
+    <img src="https://cp-badges.deta.dev/leetcode/aburifat" alt="Leetcode" />
   </a>
   <a href="https://codeforces.com/profile/ARMaster">
-    <img src="https://cp-logo.vercel.app/codeforces/armaster" alt="Codeforces rating" />
+    <img src="https://cp-badges.deta.dev/codeforces/armaster" alt="Codeforces" />
+  </a>
+  <a href="https://codechef.com/users/aburifat/">
+    <img src="https://cp-badges.deta.dev/codechef/aburifat" alt="CodeChef" />
+  </a>
+  <a href="https://atcoder.jp/users/aburifat/">
+    <img src="https://cp-badges.deta.dev/atcoder/aburifat" alt="Atcoder" />
   </a>
   <a href="https://github.com/abu-rifat?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/abu-rifat?color=green&logo=github">
