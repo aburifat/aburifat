@@ -87,8 +87,6 @@
 
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/aburifat?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/ARMaster/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/abu-rifat/cf-stats/main/output/light_card.svg" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-rifat&" alt="abu-rifat" />
 </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-rifat&" alt="abu-rifat" /></p>
