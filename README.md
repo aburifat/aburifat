@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Abu Rifat Muhammed Al Hasib</h1>
 <h3 align="center">Competitive Programmer</h3>
 
+
+<p align="left">
+  <a href="https://leetcode.com/aburifat/">
+    <img src="https://cp-logo.vercel.app/leetcode/aburifat" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/ARMaster">
+    <img src="https://raw.githubusercontent.com/ARMaster/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
+  </a>
+  <a href="https://github.com/abu-rifat?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abu-rifat?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abu-rifat/">
+    <img src="https://komarev.com/ghpvc/?username=abu-rifat" alt="visitors" />
+  </a>
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-rifat&label=Profile%20views&color=0e75b6&style=flat" alt="abu-rifat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-rifat" alt="abu-rifat" /></a> </p>
