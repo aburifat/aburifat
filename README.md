@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm a Compatitive Programmer!</h1>
+<h1 align="left">Hi 👋, I'm a Compatitive Programmer!</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/aburifat/">
     <img src="https://cp-logo.vercel.app/leetcode/aburifat" alt="Leet code rating" />
   </a>
@@ -14,9 +14,6 @@
     <img src="https://komarev.com/ghpvc/?username=abu-rifat" alt="visitors" />
   </a>
 </p>
-<p align="center">
-  <img alt="alt_text" width="200px" src="https://projecteuler.net/profile/abu-rifat.png" />
- </p>
 
 #### Currently I'm,
 
