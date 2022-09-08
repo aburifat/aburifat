@@ -18,13 +18,30 @@
   <img alt="alt_text" width="200px" src="https://projecteuler.net/profile/abu-rifat.png" />
  </p>
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/abu_rifat_m)
+#### Currently I'm,
 
-- 🌱 I’m currently learning **BERT**
+- :fire: Interested in **CP / Algo-DS** and **AI / ML**
+- 🌱 Learning **NLP, Sentiment Analysis, BERT**
+- ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)** and **[LightOJ](https://lightoj.com/user/abu-rifat)**
+- 💼 Open to Work for **Softwere Engineer** Role
 
-- 👯 I’m looking to collaborate on **Algorithm and Data Structure related projects**
+#### Biodata,
+- I'm currently studying Computer Science & Engineering at **[University of Barishal](https://bu.ac.bd/)**
+- ✨ I'm currently working on **[Fiverr](https://www.fiverr.com/abu_rifat_m)** as **WordPress Bug Fixer**
+- I commonly use: `.cpp`, `.c`, `.sh`, `.php`, `.html`, `.css`
+- I'm mostly active with the **CP Community** and **Fiverr Bangladesh Community**
+- I'm learning **Advanced Algo-DS** for **CP**
+- Ping me about **CP / Algo-DS**, **WordPress**, **CLI(Linux)**
+- Checkout my **[Resume](#)**
 
-- 💬 Ping me about **CP Algorithms, CP Data Structures and WordPress**
+#### Profiles,
+- **[Codeforces](https://codeforces.com/profile/ARMaster/)**
+- **[Leetcode](https://leetcode.com/aburifat/)**
+- **[lightOJ](https://lightoj.com/user/abu-rifat/)**
+- **[AtCoder](https://atcoder.jp/users/aburifat/)**
+- **[CodeChef](https://codechef.com/users/aburifat/)**
+- **[SPOJ](https://spoj.com/users/abu_rifat/)**
+- **[UvaOJ](https://uhunt.onlinejudge.org/id/889274/)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aburifat/**
 
