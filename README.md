@@ -21,6 +21,12 @@
 - [Codeforces-1520F2 Guess the K-th Zero &lpar;Hard version&rpar;](https://aburifat.com/codeforces-1520f2-guess-the-k-th-zero-hard-version/)
 - [Codeforces-1520F1 Guess the K-th Zero &lpar;Easy version&rpar;](https://aburifat.com/codeforces-1520f1-guess-the-k-th-zero-easy-version/)
 - [Lightoj-1051 Good or Bad](https://aburifat.com/lightoj-1051-good-or-bad/)
+- [AtCoder-abc189_d Logical Expression](https://aburifat.com/atcoder-abc189_d-logical-expression/)
+- [LeetCode-221 Maximal Square](https://aburifat.com/leetcode-221-maximal-square/)
+- [LeetCode-85 Maximal Rectangle](https://aburifat.com/leetcode-85-maximal-rectangle/)
+- [Timus-1146 Maximum Sum](https://aburifat.com/timus-1146-maximum-sum/)
+- [Codeforces-1516C Baby Ehab Partitions Again](https://aburifat.com/codeforces-1516c-baby-ehab-partitions-again/)
+- [Codeforces-1517D Explorer Space](https://aburifat.com/codeforces-1517d-explorer-space/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
