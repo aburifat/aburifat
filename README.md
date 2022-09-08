@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Codeforces-1529C Parsa’s Humongous Tree](https://aburifat.com/codeforces-1529c-parsas-humongous-tree/)
+- [Codeforces-1520F2 Guess the K-th Zero &lpar;Hard version&rpar;](https://aburifat.com/codeforces-1520f2-guess-the-k-th-zero-hard-version/)
+- [Codeforces-1520F1 Guess the K-th Zero &lpar;Easy version&rpar;](https://aburifat.com/codeforces-1520f1-guess-the-k-th-zero-easy-version/)
+- [Lightoj-1051 Good or Bad](https://aburifat.com/lightoj-1051-good-or-bad/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
