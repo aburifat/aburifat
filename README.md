@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm a Compatitive Programmer!</h1>
+<h1 align="left">Hi 👋, I'm a Competitive Programmer!</h1>
 
 <p align="left">
   <a href="https://leetcode.com/aburifat/">
