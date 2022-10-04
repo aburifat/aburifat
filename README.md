@@ -51,16 +51,16 @@
 
 ### Blogs Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Codeforces-1529C Parsa’s Humongous Tree](https://aburifat.com/codeforces-1529c-parsas-humongous-tree/)
-- [Codeforces-1520F2 Guess the K-th Zero &lpar;Hard version&rpar;](https://aburifat.com/codeforces-1520f2-guess-the-k-th-zero-hard-version/)
-- [Codeforces-1520F1 Guess the K-th Zero &lpar;Easy version&rpar;](https://aburifat.com/codeforces-1520f1-guess-the-k-th-zero-easy-version/)
-- [Lightoj-1051 Good or Bad](https://aburifat.com/lightoj-1051-good-or-bad/)
-- [AtCoder-abc189_d Logical Expression](https://aburifat.com/atcoder-abc189_d-logical-expression/)
-- [LeetCode-221 Maximal Square](https://aburifat.com/leetcode-221-maximal-square/)
-- [LeetCode-85 Maximal Rectangle](https://aburifat.com/leetcode-85-maximal-rectangle/)
-- [Timus-1146 Maximum Sum](https://aburifat.com/timus-1146-maximum-sum/)
-- [Codeforces-1516C Baby Ehab Partitions Again](https://aburifat.com/codeforces-1516c-baby-ehab-partitions-again/)
-- [Codeforces-1517D Explorer Space](https://aburifat.com/codeforces-1517d-explorer-space/)
+- [Codeforces – Compress Words](https://aburifat.com/compress-words/)
+- [Codeforces – Prefix-Suffix Palindrome &lpar;Hard version&rpar;](https://aburifat.com/prefix-suffix-palindrome-hard-version/)
+- [SPOJ – PERIOD – Period](https://aburifat.com/period/)
+- [SPOJ – FINDSR – Find String Roots](https://aburifat.com/find-string-roots/)
+- [SPOJ – EPALIN – Extend to Palindrome](https://aburifat.com/extend-to-palindrome/)
+- [Timus – String Tale](https://aburifat.com/string-tale/)
+- [HackerEarth – Apply KMP](https://aburifat.com/apply-kmp/)
+- [Codeforces – Prefixes and Suffixes](https://aburifat.com/prefixes-and-suffixes/)
+- [SPOJ – NAJPF – Pattern Find](https://aburifat.com/pattern-find/)
+- [UVA – 12467 – Secret Word](https://aburifat.com/secret-word/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with Me:</h3>
