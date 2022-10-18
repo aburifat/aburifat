@@ -11,7 +11,7 @@
     <img src="https://cp-badges.deta.dev/codechef/aburifat" alt="CodeChef" />
   </a>
   <a href="https://atcoder.jp/users/aburifat/">
-    <img src="https://cp-badges.deta.dev/atcoder/aburifat?" alt="Atcoder" />
+    <img src="https://cp-badges.deta.dev/atcoder/aburifat" alt="Atcoder" />
   </a>
   <a href="https://github.com/abu-rifat?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/abu-rifat?color=green&logo=github">
