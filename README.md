@@ -35,7 +35,7 @@
 - 👨‍💻 I'm mostly active with the **CP Community** and **Fiverr Bangladesh Community**
 - 📖 I'm learning **Advanced Algo-DS** for **CP**
 - 💬 Ping me about **CP / Algo-DS**, **WordPress**, **CLI(Linux)**
-- 📋 Checkout my **[Resume]([https://github.com/aburifat/aburifat/aburifat-resume-multipage.pdf](https://github.com/aburifat/aburifat/blob/main/aburifat-resume-multipage.pdf))**
+- 📋 Checkout my **[Resume](https://github.com/aburifat/aburifat/blob/main/aburifat-resume-multipage.pdf)**
 
 ### Profiles:
 <p align="left">
