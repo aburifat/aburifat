@@ -2,29 +2,29 @@
 
 <p align="left">
   <a href="https://leetcode.com/aburifat/">
-    <img src="https://cp-badges.deta.dev/leetcode/aburifat" alt="Leetcode" />
+    <img src="https://cp-logo.vercel.app/leetcode/aburifat" alt="Leetcode" />
   </a>
-  <a href="https://codeforces.com/profile/ARMaster">
-    <img src="https://cp-badges.deta.dev/codeforces/armaster" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/aburifat">
+    <img src="https://cp-logo.vercel.app/codeforces/aburifat" alt="Codeforces" />
   </a>
   <a href="https://codechef.com/users/aburifat/">
-    <img src="https://cp-badges.deta.dev/codechef/aburifat" alt="CodeChef" />
+    <img src="https://cp-logo.vercel.app/codechef/aburifat" alt="CodeChef" />
   </a>
   <a href="https://atcoder.jp/users/aburifat/">
-    <img src="https://cp-badges.deta.dev/atcoder/aburifat" alt="Atcoder" />
+    <img src="https://cp-logo.vercel.app/atcoder/aburifat" alt="Atcoder" />
   </a>
-  <a href="https://github.com/abu-rifat?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abu-rifat?color=green&logo=github">
+  <a href="https://github.com/aburifat?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aburifat?color=green&logo=github">
   </a>
-  <a href="https://github.com/abu-rifat/">
-    <img src="https://komarev.com/ghpvc/?username=abu-rifat" alt="visitors" />
+  <a href="https://github.com/aburifat/">
+    <img src="https://komarev.com/ghpvc/?username=aburifat" alt="visitors" />
   </a>
 </p>
 
 #### Currently I'm,
 
 - :fire: Interested in **CP / Algo-DS** and **AI / ML**
-- ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)** and **[LightOJ](https://lightoj.com/user/abu-rifat)**
+- ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)** and **[LightOJ](https://lightoj.com/user/aburifat)**
 - 🌱 Learning **NLP, Sentiment Analysis, BERT**
 - 💼 Open to Work for **Softwere Engineer** Role
 
@@ -35,14 +35,14 @@
 - 👨‍💻 I'm mostly active with the **CP Community** and **Fiverr Bangladesh Community**
 - 📖 I'm learning **Advanced Algo-DS** for **CP**
 - 💬 Ping me about **CP / Algo-DS**, **WordPress**, **CLI(Linux)**
-- 📋 Checkout my **[Resume](#)**
+- 📋 Checkout my **[Resume](https://github.com/aburifat/aburifat/resume.pdf)**
 
 ### Profiles:
 <p align="left">
-<a href="https://codeforces.com/profile/ARMaster/" target="blank"><img align="center" src="src/logo/cp-logo/codeforces.png" alt="ARMaster" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/aburifat/" target="blank"><img align="center" src="src/logo/cp-logo/codeforces.png" alt="aburifat" height="50" width="50" /></a>
   <a href="https://leetcode.com/aburifat/" target="blank"><img align="center" src="src/logo/cp-logo/leetcode.png" alt="aburifat" height="50" width="50" /></a>
   <a href="https://codechef.com/users/aburifat/" target="blank"><img align="center" src="src/logo/cp-logo/codechef.png" alt="aburifat" height="50" width="50" /></a>
-  <a href="https://lightoj.com/user/abu-rifat/" target="blank"><img align="center" src="src/logo/cp-logo/lightoj.png" alt="abu-rifat" height="50" width="50" /></a>
+  <a href="https://lightoj.com/user/aburifat/" target="blank"><img align="center" src="src/logo/cp-logo/lightoj.png" alt="aburifat" height="50" width="50" /></a>
   <a href="https://www.hackerrank.com/aburifat/" target="blank"><img align="center" src="src/logo/cp-logo/hackerrank.png" alt="aburifat" height="50" width="50" /></a>
   <a href="https://atcoder.jp/users/aburifat/" target="blank"><img align="center" src="src/logo/cp-logo/atcoder.png" alt="aburifat" height="50" width="50" /></a>
   <a href="https://spoj.com/users/abu_rifat/" target="blank"><img align="center" src="src/logo/cp-logo/spoj.jpeg" alt="abu_rifat" height="50" width="50" /></a>
@@ -67,7 +67,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aburifat" target="blank"><img align="center" src="src/logo/social/linkedin.png" alt="aburifat" height="50" width="50" /></a>
 <a href="https://fb.com/aburifatm" target="blank"><img align="center" src="src/logo/social/facebook.png" alt="aburifatm" height="50" width="50" /></a>
-<a href="mailto:rifat.cse4.bu@gmail.com" target="blank"><img align="center" src="src/logo/social/mail.png" alt="rifat.cse4.bu@gmail.com" height="50" width="50" /></a>
+<a href="mailto:abu.rifat.m@gmail.com" target="blank"><img align="center" src="src/logo/social/mail.png" alt="abu.rifat.m@gmail.com" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -82,8 +82,8 @@
 ### Github Stats:
 
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abu-rifat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-rifat&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aburifat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aburifat&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ### CP Progress:
