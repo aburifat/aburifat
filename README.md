@@ -1,4 +1,7 @@
-<h1 align="left">Hi 👋, I'm a Competitive Programmer!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=3000&color=000000&width=800&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+a+Competitive+Programmer!" alt="Typing SVG" /></a>
+---
+
+
 
 <p align="left">
   <a href="https://leetcode.com/aburifat/">
