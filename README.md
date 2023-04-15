@@ -28,7 +28,7 @@
 
 - :fire: Interested in **CP / Algo-DS** and **AI / ML**
 - ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)** and **[LightOJ](https://lightoj.com/user/aburifat)**
-- 🌱 Learning **NLP, Sentiment Analysis, BERT**
+- 🌱 Getting prepared for **Coding Interview**
 - 💼 Open to Work for **Softwere Engineer** Role
 
 #### Biodata,
