@@ -8,7 +8,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/aburifat" alt="Leetcode" />
   </a>
   <a href="https://codeforces.com/profile/aburifat">
-    <img src="https://cp-logo.vercel.app/codeforces/aburifat" alt="Codeforces" />
+    <img src="https://badges.joonhyung.xyz/codeforces/aburifat.svg" alt="Codeforces" />
   </a>
   <a href="https://codechef.com/users/aburifat/">
     <img src="https://cp-logo.vercel.app/codechef/aburifat" alt="CodeChef" />
@@ -93,5 +93,4 @@
 
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/aburifat?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/abu-rifat/cf-stats/main/output/light_card.svg" />
 </p>
