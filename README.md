@@ -26,18 +26,14 @@
 
 #### Currently I'm,
 
-- :fire: Interested in **CP / Algo-DS** and **AI / ML**
-- ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)** and **[LightOJ](https://lightoj.com/user/aburifat)**
-- 🌱 Getting prepared for **Coding Interview**
+- :fire: Interested in **CP / Algo-DS** and **Asp.Net Core / REST API / Blazor**
+- ⌛ Solving Problems on **[Leetcode](https://leetcode.com/aburifat/)**
 - 💼 Open to Work for **Softwere Engineer** Role
 
 #### Biodata,
-- 🎓 I'm currently studying Computer Science & Engineering at **[University of Barishal](https://bu.ac.bd/)**
-- ✨ I'm currently working on **[Fiverr](https://www.fiverr.com/abu_rifat_m)** as **WordPress Bug Fixer**
-- 🧾️ I commonly use: `.cpp`, `.c`, `.sh`, `.php`, `.html`, `.css`
-- 👨‍💻 I'm mostly active with the **CP Community** and **Fiverr Bangladesh Community**
-- 📖 I'm learning **Advanced Algo-DS** for **CP**
-- 💬 Ping me about **CP / Algo-DS**, **WordPress**, **CLI(Linux)**
+- 🎓 I've recently graduated in Computer Science & Engineering at **[University of Barishal](https://bu.ac.bd/)**
+- ✨ I'm currently working at **[SoftKarrot](https://www.linkedin.com/company/softkarrot/)** as a **Software Development Intern**
+- 🧾️ I commonly use: `.cpp`, `.c#`, `.php`, `.html`, `.css`
 - 📋 Checkout my **[Resume](https://github.com/aburifat/aburifat/blob/main/aburifat-resume-multipage.pdf)**
 
 ### Profiles:
